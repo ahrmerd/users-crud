@@ -23,10 +23,8 @@
                         </x-form-item>
                         <x-form-item name="password" placeholder="***" type="password">
                         </x-form-item>
-                        <x-form-item name="password-confirm" placeholder="***" type="password">
+                        <x-form-item name="password_confirmation" placeholder="***" type="password">
                         </x-form-item>
-
-
                         <div class="flex justify-center">
                             <button class="link-btn">Register Now</button>
                         </div>
