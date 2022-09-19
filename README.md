@@ -2,4 +2,4 @@
 
 ## About User Crud
 
-a simple website built with laravel which allows Multiple users to register and login. the site has two types of users; admin and regular users. Regular users can see only the registered users list. And admin user can perform the CURD operations on the users' list. when a user register he becomes a regular user, only an admin can upgrade a normal user to an admin user.
+a simple website built with laravel which allows Multiple users to register and login. the site has two types of users; admin and regular users. Regular users can see only the registered users list. And admin user can perform the CURD operations on the users' list. when a user register he becomes a regular user, only an admin can upgrade a normal user to an admin user. go to https://usercrud.fly.dev/ to test the app. register a new user to see the normal user operation. login with email: admin@mail.com, and password: password to test the operation of admin users.
