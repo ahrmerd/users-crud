@@ -34,4 +34,4 @@ Route::middleware('guest')->group(function () {
 });
 
 Route::post('logout', [LoginController::class, 'destroy'])->name('logout')->middleware('auth');
-Route::resource('users', UserController::class)->middleware('auth.admin');
+Route::resource('users', UserController::class);
